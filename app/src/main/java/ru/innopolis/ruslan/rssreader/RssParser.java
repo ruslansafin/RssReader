@@ -19,11 +19,11 @@ import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 
-public class FeedParser {
+public class RssParser {
 
     private Context context;
 
-    public FeedParser(Context context) {
+    public RssParser(Context context) {
         this.context = context;
     }
 
